@@ -17,6 +17,8 @@
 .primary_button {
   color:#FFFFFF;
 }
+._形状 {
+}
 ._一级标题 {
   font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:bold;
@@ -77,6 +79,12 @@
 }
 .radio_button {
   text-align:left;
+}
+.table_cell {
+}
+._线段 {
+}
+._连接线 {
 }
 ._流程图形状 {
 }
